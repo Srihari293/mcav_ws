@@ -21,6 +21,8 @@ setup(
     entry_points={
         'console_scripts': [
             'control_node = ros2_tutorial.control_node:main',
+            'sense = ros2_tutorial.sense:main',
+            'advance_breaking = ros2_tutorial.advance_breaking:main',
         ],
     },
 )

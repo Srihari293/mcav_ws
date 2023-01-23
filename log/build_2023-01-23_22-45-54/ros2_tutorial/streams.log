@@ -1,0 +1,31 @@
+[0.519s] Invoking command in '/home/srihari/mcav_ws/src/ros2_tutorial': PYTHONPATH=/home/srihari/mcav_ws/build/ros2_tutorial/prefix_override:/home/srihari/mcav_ws/install/ros2_tutorial/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/ros2_tutorial build --build-base /home/srihari/mcav_ws/build/ros2_tutorial/build install --record /home/srihari/mcav_ws/build/ros2_tutorial/install.log --install-scripts $base/lib/ros2_tutorial --single-version-externally-managed
+[0.679s] running egg_info
+[0.680s] writing ../../build/ros2_tutorial/ros2_tutorial.egg-info/PKG-INFO
+[0.680s] writing dependency_links to ../../build/ros2_tutorial/ros2_tutorial.egg-info/dependency_links.txt
+[0.680s] writing entry points to ../../build/ros2_tutorial/ros2_tutorial.egg-info/entry_points.txt
+[0.681s] writing requirements to ../../build/ros2_tutorial/ros2_tutorial.egg-info/requires.txt
+[0.681s] writing top-level names to ../../build/ros2_tutorial/ros2_tutorial.egg-info/top_level.txt
+[0.707s] reading manifest file '../../build/ros2_tutorial/ros2_tutorial.egg-info/SOURCES.txt'
+[0.707s] writing manifest file '../../build/ros2_tutorial/ros2_tutorial.egg-info/SOURCES.txt'
+[0.708s] running build
+[0.708s] running build_py
+[0.708s] copying ros2_tutorial/control_node.py -> /home/srihari/mcav_ws/build/ros2_tutorial/build/lib/ros2_tutorial
+[0.708s] copying ros2_tutorial/advance_breaking.py -> /home/srihari/mcav_ws/build/ros2_tutorial/build/lib/ros2_tutorial
+[0.708s] copying ros2_tutorial/sense.py -> /home/srihari/mcav_ws/build/ros2_tutorial/build/lib/ros2_tutorial
+[0.708s] running install
+[0.709s] running install_lib
+[0.710s] copying /home/srihari/mcav_ws/build/ros2_tutorial/build/lib/ros2_tutorial/control_node.py -> /home/srihari/mcav_ws/install/ros2_tutorial/lib/python3.8/site-packages/ros2_tutorial
+[0.710s] copying /home/srihari/mcav_ws/build/ros2_tutorial/build/lib/ros2_tutorial/advance_breaking.py -> /home/srihari/mcav_ws/install/ros2_tutorial/lib/python3.8/site-packages/ros2_tutorial
+[0.710s] copying /home/srihari/mcav_ws/build/ros2_tutorial/build/lib/ros2_tutorial/sense.py -> /home/srihari/mcav_ws/install/ros2_tutorial/lib/python3.8/site-packages/ros2_tutorial
+[0.710s] byte-compiling /home/srihari/mcav_ws/install/ros2_tutorial/lib/python3.8/site-packages/ros2_tutorial/control_node.py to control_node.cpython-38.pyc
+[0.711s] byte-compiling /home/srihari/mcav_ws/install/ros2_tutorial/lib/python3.8/site-packages/ros2_tutorial/advance_breaking.py to advance_breaking.cpython-38.pyc
+[0.712s] byte-compiling /home/srihari/mcav_ws/install/ros2_tutorial/lib/python3.8/site-packages/ros2_tutorial/sense.py to sense.cpython-38.pyc
+[0.712s] running install_data
+[0.713s] running install_egg_info
+[0.714s] removing '/home/srihari/mcav_ws/install/ros2_tutorial/lib/python3.8/site-packages/ros2_tutorial-0.0.0-py3.8.egg-info' (and everything under it)
+[0.714s] Copying ../../build/ros2_tutorial/ros2_tutorial.egg-info to /home/srihari/mcav_ws/install/ros2_tutorial/lib/python3.8/site-packages/ros2_tutorial-0.0.0-py3.8.egg-info
+[0.715s] running install_scripts
+[0.727s] Installing control_node script to /home/srihari/mcav_ws/install/ros2_tutorial/lib/ros2_tutorial
+[0.727s] Installing sense script to /home/srihari/mcav_ws/install/ros2_tutorial/lib/ros2_tutorial
+[0.727s] writing list of installed files to '/home/srihari/mcav_ws/build/ros2_tutorial/install.log'
+[0.747s] Invoked command in '/home/srihari/mcav_ws/src/ros2_tutorial' returned '0': PYTHONPATH=/home/srihari/mcav_ws/build/ros2_tutorial/prefix_override:/home/srihari/mcav_ws/install/ros2_tutorial/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/ros2_tutorial build --build-base /home/srihari/mcav_ws/build/ros2_tutorial/build install --record /home/srihari/mcav_ws/build/ros2_tutorial/install.log --install-scripts $base/lib/ros2_tutorial --single-version-externally-managed

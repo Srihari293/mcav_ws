@@ -1,0 +1,25 @@
+[0.407s] Invoking command in '/home/srihari/mcav_ws/src/ros2_tutorial': PYTHONPATH=/home/srihari/mcav_ws/build/ros2_tutorial/prefix_override:/home/srihari/mcav_ws/install/ros2_tutorial/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/ros2_tutorial build --build-base /home/srihari/mcav_ws/build/ros2_tutorial/build install --record /home/srihari/mcav_ws/build/ros2_tutorial/install.log --install-scripts $base/lib/ros2_tutorial --single-version-externally-managed
+[0.536s] running egg_info
+[0.536s] writing ../../build/ros2_tutorial/ros2_tutorial.egg-info/PKG-INFO
+[0.536s] writing dependency_links to ../../build/ros2_tutorial/ros2_tutorial.egg-info/dependency_links.txt
+[0.536s] writing entry points to ../../build/ros2_tutorial/ros2_tutorial.egg-info/entry_points.txt
+[0.537s] writing requirements to ../../build/ros2_tutorial/ros2_tutorial.egg-info/requires.txt
+[0.537s] writing top-level names to ../../build/ros2_tutorial/ros2_tutorial.egg-info/top_level.txt
+[0.559s] reading manifest file '../../build/ros2_tutorial/ros2_tutorial.egg-info/SOURCES.txt'
+[0.560s] writing manifest file '../../build/ros2_tutorial/ros2_tutorial.egg-info/SOURCES.txt'
+[0.560s] running build
+[0.560s] running build_py
+[0.560s] copying ros2_tutorial/sense.py -> /home/srihari/mcav_ws/build/ros2_tutorial/build/lib/ros2_tutorial
+[0.560s] running install
+[0.561s] running install_lib
+[0.561s] copying /home/srihari/mcav_ws/build/ros2_tutorial/build/lib/ros2_tutorial/sense.py -> /home/srihari/mcav_ws/install/ros2_tutorial/lib/python3.8/site-packages/ros2_tutorial
+[0.562s] byte-compiling /home/srihari/mcav_ws/install/ros2_tutorial/lib/python3.8/site-packages/ros2_tutorial/sense.py to sense.cpython-38.pyc
+[0.562s] running install_data
+[0.563s] running install_egg_info
+[0.564s] removing '/home/srihari/mcav_ws/install/ros2_tutorial/lib/python3.8/site-packages/ros2_tutorial-0.0.0-py3.8.egg-info' (and everything under it)
+[0.564s] Copying ../../build/ros2_tutorial/ros2_tutorial.egg-info to /home/srihari/mcav_ws/install/ros2_tutorial/lib/python3.8/site-packages/ros2_tutorial-0.0.0-py3.8.egg-info
+[0.564s] running install_scripts
+[0.574s] Installing control_node script to /home/srihari/mcav_ws/install/ros2_tutorial/lib/ros2_tutorial
+[0.574s] Installing sense script to /home/srihari/mcav_ws/install/ros2_tutorial/lib/ros2_tutorial
+[0.574s] writing list of installed files to '/home/srihari/mcav_ws/build/ros2_tutorial/install.log'
+[0.588s] Invoked command in '/home/srihari/mcav_ws/src/ros2_tutorial' returned '0': PYTHONPATH=/home/srihari/mcav_ws/build/ros2_tutorial/prefix_override:/home/srihari/mcav_ws/install/ros2_tutorial/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/ros2_tutorial build --build-base /home/srihari/mcav_ws/build/ros2_tutorial/build install --record /home/srihari/mcav_ws/build/ros2_tutorial/install.log --install-scripts $base/lib/ros2_tutorial --single-version-externally-managed

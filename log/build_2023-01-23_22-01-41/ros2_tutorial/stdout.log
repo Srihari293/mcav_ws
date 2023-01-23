@@ -1,0 +1,23 @@
+running egg_info
+writing ../../build/ros2_tutorial/ros2_tutorial.egg-info/PKG-INFO
+writing dependency_links to ../../build/ros2_tutorial/ros2_tutorial.egg-info/dependency_links.txt
+writing entry points to ../../build/ros2_tutorial/ros2_tutorial.egg-info/entry_points.txt
+writing requirements to ../../build/ros2_tutorial/ros2_tutorial.egg-info/requires.txt
+writing top-level names to ../../build/ros2_tutorial/ros2_tutorial.egg-info/top_level.txt
+reading manifest file '../../build/ros2_tutorial/ros2_tutorial.egg-info/SOURCES.txt'
+writing manifest file '../../build/ros2_tutorial/ros2_tutorial.egg-info/SOURCES.txt'
+running build
+running build_py
+copying ros2_tutorial/sense.py -> /home/srihari/mcav_ws/build/ros2_tutorial/build/lib/ros2_tutorial
+running install
+running install_lib
+copying /home/srihari/mcav_ws/build/ros2_tutorial/build/lib/ros2_tutorial/sense.py -> /home/srihari/mcav_ws/install/ros2_tutorial/lib/python3.8/site-packages/ros2_tutorial
+byte-compiling /home/srihari/mcav_ws/install/ros2_tutorial/lib/python3.8/site-packages/ros2_tutorial/sense.py to sense.cpython-38.pyc
+running install_data
+running install_egg_info
+removing '/home/srihari/mcav_ws/install/ros2_tutorial/lib/python3.8/site-packages/ros2_tutorial-0.0.0-py3.8.egg-info' (and everything under it)
+Copying ../../build/ros2_tutorial/ros2_tutorial.egg-info to /home/srihari/mcav_ws/install/ros2_tutorial/lib/python3.8/site-packages/ros2_tutorial-0.0.0-py3.8.egg-info
+running install_scripts
+Installing control_node script to /home/srihari/mcav_ws/install/ros2_tutorial/lib/ros2_tutorial
+Installing sense script to /home/srihari/mcav_ws/install/ros2_tutorial/lib/ros2_tutorial
+writing list of installed files to '/home/srihari/mcav_ws/build/ros2_tutorial/install.log'
