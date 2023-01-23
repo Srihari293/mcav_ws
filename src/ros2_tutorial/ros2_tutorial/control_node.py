@@ -32,7 +32,7 @@ class Control(Node):
         message = Twist()
         
         # Task 4: Moving straight
-        message.linear.x = 1.0
+        message.linear.x = 2.0
 
         # Uncomment code below to execute task 6
         # # Task 6: Donuts
